@@ -1,0 +1,9 @@
+{
+    "name": "ratepay/magento-module",
+    "description": "RatePAY GmbH - Magento Payment Module",
+    "keywords": ["magento", "ratepay"],
+    "type": "magento-module",
+    "license":"OSL-3.0",
+    "require": {
+    }
+}
